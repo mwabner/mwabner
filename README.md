@@ -30,3 +30,6 @@ Ich suche eine Einstiegsposition in **Data Analytics, Business Intelligence oder
 Geschäftsfrage → Datenqualität → Analyse → verständliche Ergebnisse → begründete Empfehlungen
 
 Lernprojekte kennzeichne ich ausdrücklich. Bei Gruppenarbeiten beschreibe ich meinen eigenen Anteil. Verwendete Datenquellen und Grenzen der Analyse mache ich nachvollziehbar.
+
+## Kontakt
+[Mein LinkedIn-Profil](https://www.linkedin.com/in/mwabner/)
